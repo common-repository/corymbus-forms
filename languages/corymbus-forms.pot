@@ -1,0 +1,39 @@
+# Copyright (C) 2022 Corymbus SAS
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Corymbus Forms 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/corymbus-forms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-23T14:14:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: corymbus-forms\n"
+
+#. Plugin Name of the plugin
+msgid "Corymbus Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://corymb.us/en/wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily embed Corymbus web pages and forms into WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Corymbus SAS"
+msgstr ""
+
+#: corymbus-forms.php:20
+msgid "[Corymbus Forms: The <code>%s</code> attribute must be provided]"
+msgstr ""
+
+#: corymbus-forms.php:23
+msgid "[Corymbus Forms: The <code>%s</code> attribute should have a <code>xxxxxx/slug</code> format]"
+msgstr ""
